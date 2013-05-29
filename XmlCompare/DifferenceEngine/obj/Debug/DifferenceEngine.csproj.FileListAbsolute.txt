@@ -1,0 +1,5 @@
+D:\Temp\WinForm\XmlCompare\DifferenceEngine\bin\Debug\DifferenceEngine.dll
+D:\Temp\WinForm\XmlCompare\DifferenceEngine\bin\Debug\DifferenceEngine.pdb
+D:\Temp\WinForm\XmlCompare\DifferenceEngine\obj\Debug\ResolveAssemblyReference.cache
+D:\Temp\WinForm\XmlCompare\DifferenceEngine\obj\Debug\DifferenceEngine.dll
+D:\Temp\WinForm\XmlCompare\DifferenceEngine\obj\Debug\DifferenceEngine.pdb

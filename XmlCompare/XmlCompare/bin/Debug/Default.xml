@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<Languages>
+  <Price>价格</Price>
+  <City>市</City>
+  <Name>刘德华</Name>
+  <Sex>男</Sex>
+  <NodeB>
+    <ID>
+    </ID>
+    <Description>描述2</Description>
+    <Sell>卖</Sell>
+    <Buy>买</Buy>
+  </NodeB>
+  <Node3>
+    <ID>
+    </ID>
+    <IsOpen>新单平仓</IsOpen>
+    <Code>合约编号</Code>
+    <IsBuy>买卖</IsBuy>
+    <Limit>限价单</Limit>
+    <Stop>止损单</Stop>
+    <Node33>
+      <Add>添加</Add>
+      <Delete>删除</Delete>
+    </Node33>
+  </Node3>
+  <Node4>
+    <ID>
+    </ID>
+    <Stop>止损单</Stop>
+    <Node44>
+      <Add>添加</Add>
+      <Node444>
+        <ttt>第四</ttt>
+        <feige>刘德华</feige>
+      </Node444>
+    </Node44>
+  </Node4>
+  <Language />
+</Languages>
